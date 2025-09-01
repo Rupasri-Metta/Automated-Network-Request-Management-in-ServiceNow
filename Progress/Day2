@@ -1,0 +1,27 @@
+# Day 2 – Creation of Tables
+
+## 1. Table Creation
+- Created **custom tables** in the application scope to store request data.  
+- Named and structured tables to align with **Service Catalog items**.  
+
+## 2. Field Creation
+- Added fields of different types:  
+  - String  
+  - Choice  
+  - Reference  
+  - Date/Time  
+  - Integer  
+- Assigned attributes:  
+  - Maximum length  
+  - Mandatory  
+  - Default values  
+
+## 3. Defining Field Properties
+- Defined **business rules** for uniqueness and validations.  
+- Implemented **reference fields** for linking with existing tables (e.g., *User table*, *Incident table*).  
+
+## 4. Adding Fields to Form
+- Customized **table form layout** for better user experience.  
+- Reordered fields logically:  
+  - User details → Request details → Status  
+- Tested forms by creating **sample records**.  
