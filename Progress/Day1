@@ -1,0 +1,33 @@
+# Day 1 – Service Catalog Creation
+
+## 1. Service Catalog Setup
+- Created a new Service Catalog in ServiceNow instance.  
+- Defined **catalog categories** for better item grouping and navigation.  
+
+## 2. Variables Configuration
+- Configured catalog item variables: **text, choice, checkbox, date**.  
+- Implemented field-level properties:  
+  - Mandatory  
+  - Default values  
+  - Ordering  
+
+## 3. Variable Types
+- Explored different variable types:  
+  - Single-line text  
+  - Multiple-choice  
+  - Reference  
+  - Checkbox  
+- Tested variable display formats in the catalog form.  
+
+## 4. Variable Set Configuration
+- Created a **Variable Set** for reusable variable groups.  
+  - Example: *User Details Set* containing Name, Email, Department.  
+- Linked variable sets to multiple catalog items for standardization.  
+
+## 5. Catalog UI Policy
+- Configured UI policies to control field behavior:  
+  - Read-only  
+  - Hidden  
+  - Mandatory  
+- Tested dynamic behavior:  
+  - Example: *Show additional fields if user selects "Yes"*.  
