@@ -50,5 +50,5 @@ The project was executed in **six phases**, each focusing on a core ServiceNow c
 
 ## 👩‍💻 Author
 **Rupasri**  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-username)  
+🔗 [LinkedIn Profile](www.linkedin.com/in/rupasri-metta-31059a273)  
 
