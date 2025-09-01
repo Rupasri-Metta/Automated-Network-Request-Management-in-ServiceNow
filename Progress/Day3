@@ -1,0 +1,16 @@
+# Day 3 – Request Approvals Creation (Related List)
+
+## 1. Related List Setup
+- Created **related lists** in the custom table to display approvals.  
+- Linked **Approval table** to the **Request table** using reference fields.  
+
+## 2. Integration with Table
+- Added **Approval related list** to the form layout of the Request table.  
+- Configured related list to show:  
+  - Approval Status  
+  - Approver  
+  - Comments  
+
+## 3. Testing Approvals
+- Submitted sample requests and verified approval entries in the related list.  
+- Validated **parent-child relationship** between Requests and Approvals.  
