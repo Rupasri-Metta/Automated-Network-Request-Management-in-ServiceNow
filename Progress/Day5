@@ -1,0 +1,25 @@
+# Day 5 – Flow Creation & Implementation
+
+## 1. Flow Creation
+- Designed **end-to-end flows** for Service Catalog request handling.  
+- Configured a **record-based trigger** (when a request item is created).  
+
+## 2. Trigger Configuration
+- Mapped triggers to **custom request tables**.  
+- Applied conditions (e.g., trigger only if *Request Category = "IT Services"*).  
+
+## 3. Action Configuration
+- Configured actions such as:  
+  - Generating **approval tasks**  
+  - Updating **request status**  
+  - Sending **notification emails** to users and approvers  
+- Linked **approval records** to request records.  
+
+## 4. Flow Chart Documentation
+- Created **flowchart representation** for documentation and presentation.  
+- Showed process from:  
+  *Request Submission → Approval → Fulfillment → Closure*  
+
+## 5. Testing Flow
+- Submitted requests in **Service Catalog** to validate flow execution.  
+- Verified approvals, notifications, and status updates.  
