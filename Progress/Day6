@@ -1,0 +1,21 @@
+# Day 6 – Final Testing
+
+## 1. Service Portal Testing (End User)
+- Logged in as **end user** to submit requests from the Service Portal.  
+- Verified request form display, variable sets, and UI policies.  
+
+## 2. Email Testing
+- Submitted multiple test requests and verified **email notifications**.  
+- Checked for correct:  
+  - Subject  
+  - Body  
+  - Dynamic data in notifications  
+
+## 3. Testing with Custom Tables
+- Submitted records to **custom tables** and ensured flows triggered correctly.  
+- Validated **approval workflows** and **related list updates**.  
+
+## 4. End-to-End Validation
+- Simulated real-world scenario:  
+  *User submits request → Approval workflow triggers → Emails sent → Request fulfilled → Request closed*  
+- Identified and fixed **minor field mapping issues**.  
