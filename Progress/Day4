@@ -1,0 +1,39 @@
+# Day 4 – Flow Designer (Overview of Flows & Actions)
+
+## 1. Navigating to Flow Designer
+- Accessed **Flow Designer** from the application navigator.  
+- Explored the Flow Designer workspace:  
+  - Flows  
+  - Actions  
+  - Subflows  
+  - Data pills  
+
+## 2. Flow Designer Components
+- Understood **Triggers**:  
+  - Record-based  
+  - Schedule-based  
+  - Application-based  
+- Learned about **Actions**:  
+  - Create Record  
+  - Update Record  
+  - Send Email  
+  - Approval  
+- Explored **Data Pills** for referencing data dynamically.  
+
+## 3. Creating a Flow
+- Created a simple test flow with a **trigger** (e.g., when a record is created in a table).  
+
+## 4. Adding Actions
+- Configured multiple actions:  
+  - Record Creation  
+  - Notification  
+- Mapped inputs using **data pills** from the trigger record.  
+
+## 5. Testing & Debugging
+- Tested flow execution by submitting new records.  
+- Debugged issues using **execution logs**.  
+
+## 6. Best Practices Learned
+- Adopted **modular design** using subflows.  
+- Avoided hard-coded values by using **data pills**.  
+- Kept flows **simple and reusable**.  
